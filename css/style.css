@@ -2016,12 +2016,12 @@ button {
     }
 
     .hero-photo {
-        order: 2;
+        order: 1;
         justify-content: center;
     }
 
     .hero-content {
-        order: 1;
+        order: 2;
         text-align: center;
     }
 
